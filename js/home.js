@@ -1,5 +1,5 @@
 $(document).ready(function() {
 
-  var rellax = new Rellax('.relax');
+  var rellax = new Rellax('.rellax');
 
 });
